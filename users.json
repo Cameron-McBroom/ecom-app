@@ -1,0 +1,42 @@
+[
+  {
+    "email": "cam.mcbroom@gmail.com",
+    "password": "testing",
+    "id": "7a05482f"
+  },
+  {
+    "email": "Test@gmail.com",
+    "password": "password",
+    "id": "3d6de770"
+  },
+  {
+    "email": "cam@simplycro.com.au",
+    "password": "password",
+    "id": "67da14a1"
+  },
+  {
+    "email": "cro@simplycro.com.au",
+    "password": "password",
+    "id": "5d4b3c0d"
+  },
+  {
+    "email": "bannana@gmail.com",
+    "password": "testing",
+    "id": "65e2b32c"
+  },
+  {
+    "email": "nice@nice.com",
+    "password": "nice",
+    "id": "540abc7c"
+  },
+  {
+    "email": "again@again.com",
+    "password": "find",
+    "id": "0b2577ad"
+  },
+  {
+    "email": "again@gmail.com",
+    "password": "password",
+    "id": "4b10f75e"
+  }
+]
