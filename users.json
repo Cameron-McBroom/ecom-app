@@ -48,5 +48,30 @@
     "email": "@ds,fdf",
     "password": "270b07d55f57124082b761da1e8c93e2f5d242e75aa913d36c97302584910480bc7674ad0b89a553987b7e82d0767faa4d78627b29707aa7d642cef9f57e4986.3fd91000aa4db040",
     "id": "c78b0ae9"
+  },
+  {
+    "email": "newemail@gmail.com",
+    "password": "1468d2ef06319eca3c878c07268405066b0078b6ac956afd8e59d9a755c2953e2fc326a789baf2ca2409581d6758a621e911fea323f01301fa673211c868edaf.e2ec4cdfbbd8a791",
+    "id": "321c0118"
+  },
+  {
+    "email": "cameron@gmail.com",
+    "password": "1231ea305a46d8b4bf444f2f5f8a0118c9326e5a204a2bae3f6171fc8605e0bbfef472198729bd4685b86931308c34c765692e4e2f63e42bf361c1dbfca35708.b1d84ae546e01a93",
+    "id": "e272631f"
+  },
+  {
+    "email": "test@gmail.com",
+    "password": "974ce12f9b12df155cbe3e6128459babd8ed95578fbe0c94f4baf0f50fe5987ff670cc8411e45b5441390f31fe6c4744f473246bb4f11a61473f5c3f192407ff.1e75febbfcd98334",
+    "id": "1a91e4fe"
+  },
+  {
+    "email": "test@test.com",
+    "password": "b2c23e7284830edcaf9735bd039073bd37565cae2b0f153f59f8df6f9c8032c55fd5b87949f87d3ca1740119620e53b344a08a714e298963d0bfc00066987168.0d7adc6dbbf80d8d",
+    "id": "bcf78a51"
+  },
+  {
+    "email": "@ds,fdf",
+    "password": "24a8b00c1a7284680d37644d5491df0118356229dcd3b69c394c46bc5a750937081065ffd7526c4c5a50a7b8f960a733450e68ad6480177a0a96e6a8956d5043.d783f41d84a5b174",
+    "id": "59057f2b"
   }
 ]
