@@ -55,7 +55,7 @@ module.exports = {
     requireTitle: check('title')
     .trim()
     .isLength({min:5, max: 40})
-    .withMessage('Titl must between 5 & 40 characters'),
+    .withMessage('Title must between 5 & 40 characters'),
 
     requirePrice: check('price')
     .trim()
