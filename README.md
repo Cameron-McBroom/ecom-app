@@ -1,5 +1,5 @@
 # Practice Ecom-App
-This is a practice ecommerce app built with nodeJS and express.
+This is a basic practice ecommerce app built with nodeJS and express.
 
 This is project as part of The Modern JavaScript Bootcamp by Colt Steele and Stephen Grider. 
 
